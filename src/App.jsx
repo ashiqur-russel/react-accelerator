@@ -1,4 +1,5 @@
 import './App.css'
+import Gallery from './components/Gallery'
 
 function App() {
 
@@ -6,6 +7,7 @@ function App() {
     <>
       <div>
         <h2>Hello React 2024 again !</h2>
+        <Gallery />
       </div>
 
     </>
